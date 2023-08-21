@@ -2,7 +2,7 @@ export default [
     {
         name: "room",
         type: "glbModel",
-        path: "/models/thinker.glb",
+        path: "/models/thinker2.glb",
     },
     
     {
